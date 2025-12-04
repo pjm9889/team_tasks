@@ -1,4 +1,4 @@
-# 수정함
+# 41분 수정함
 # Team Dashboard Project
 
 이 프로젝트는 3명의 팀원이 Streamlit 기반 대시보드를 협업하여 개발하는 예시 프로젝트입니다.
