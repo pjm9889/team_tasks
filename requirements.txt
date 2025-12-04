@@ -2,5 +2,6 @@ streamlit
 pandas
 plotly
 numpy
-mediapipe
+opencv-python-headless
+
 opencv-python-headless
