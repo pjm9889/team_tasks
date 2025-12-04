@@ -4,5 +4,3 @@ plotly
 numpy
 mediapipe==0.10.0
 
-opencv-python-headless
-
